@@ -26,11 +26,14 @@ Apaixonado por criar interfaces modernas e experiências de usuário incríveis.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <a href="https://github.com/muriloterra">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muriloterra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muriloterra&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloterra&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
