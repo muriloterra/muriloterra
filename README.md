@@ -26,14 +26,16 @@ Apaixonado por criar interfaces modernas e experiências de usuário incríveis.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/muriloterra">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muriloterra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muriloterra&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muriloterra&theme=tokyonight" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=radical&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=default&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=radical&hide_border=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=radical&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=default&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=radical&hide_border=true"/>
+  </picture>
 </div>
 
 ---
