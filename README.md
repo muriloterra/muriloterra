@@ -26,16 +26,11 @@ Apaixonado por criar interfaces modernas e experiências de usuário incríveis.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=radical&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=default&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=radical&hide_border=true"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=radical&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=default&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=radical&hide_border=true"/>
-  </picture>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=muriloterra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloterra&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+
 </div>
 
 ---
